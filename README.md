@@ -14,4 +14,4 @@ Now we can verify that message below appears in terminal
 
 ---
 
-This project was created from start.spring.io with updated gradle wrapper to 4.7-rc-1 and updated build.gradle file.
+This project was created from [start.spring.io](https://start.spring.io) with updated gradle wrapper to 4.7-rc-1 and updated build.gradle file.
