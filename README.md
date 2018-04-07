@@ -1,4 +1,4 @@
-Example project to reproduce this issue https://discuss.gradle.org/t/correct-way-to-use-lombok-with-gradle-4-7-rc
+Example project to reproduce this [issue](https://discuss.gradle.org/t/correct-way-to-use-lombok-with-gradle-4-7-rc)
 
 Commands to copy-paste:
 
