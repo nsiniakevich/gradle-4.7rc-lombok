@@ -3,8 +3,8 @@ Example project to reproduce this [issue](https://discuss.gradle.org/t/correct-w
 Commands to copy-paste:
 
 ```
-git clone git@github.com:nsiniakevich/gradle-4.7rc-lombok.git
-cd gradle-4.7rc-lombok.git
+git clone git@github.com:nsiniakevich/gradle-lombok-issue.git
+cd gradle-lombok-issue
 ./gradlew build -Dorg.gradle.warning.mode=all
 ```
 
@@ -15,5 +15,5 @@ Now we can verify that message below appears in terminal
 ---
 
 This project was created from [start.spring.io](https://start.spring.io) with
-updated [gradle wrapper to 4.7-rc-1](gradle/wrapper/gradle-wrapper.properties)
+updated [gradle wrapper to lastest](gradle/wrapper/gradle-wrapper.properties)
 and updated [build.gradle](build.gradle).
